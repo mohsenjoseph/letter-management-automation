@@ -4,6 +4,7 @@ This script is a complete office automation that aims to delete paper office let
 
 If you used the script automation and were satisfied.
 deposit 20 USDT to the wallet address below
+
 USDT Wallet Adress(TRC20):
 TNh8oJJkVvihhf15wJbKijmnWmM1bJrgrS 
 
