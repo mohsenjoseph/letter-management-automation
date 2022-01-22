@@ -5,10 +5,9 @@ This script is implemented with PHP programming language with standard mvc archi
 
 
 If you used the script automation and were satisfied.
-deposit 20 USDT to the wallet address below
+deposit 400 TRX to the wallet address below
 
-USDT Wallet Adress(TRC20):
-TNh8oJJkVvihhf15wJbKijmnWmM1bJrgrS 
+TRX Wallet Adress: TNh8oJJkVvihhf15wJbKijmnWmM1bJrgrS 
 
 
 Thanks
